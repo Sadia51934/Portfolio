@@ -1,0 +1,1 @@
+Place your own photographs here. In index.html replace each .photo-placeholder div with <img src="photography/your-photo.jpg" alt="Description" loading="lazy"> and style the img with width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:19px.
